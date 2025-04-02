@@ -1,0 +1,16 @@
+{
+  "name": "medical-hack",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u00002\u00002\u00000\u00006\u00001\u00006\u00006\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0"
+  }
+}
